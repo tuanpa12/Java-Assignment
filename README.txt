@@ -1,0 +1,1 @@
+﻿Thư mục sử dụng cho mục đích cá nhân.
